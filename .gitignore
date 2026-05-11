@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+.pycache/
+*.py[cod]
+
+.env
+.venv/
+venv/
+env/
+
+runs/
+converted_companies_29.txt
+readme_副本.txt
+
+*.log
